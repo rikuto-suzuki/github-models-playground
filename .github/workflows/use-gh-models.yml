@@ -23,5 +23,5 @@ jobs:
                      "content": "Explain the concept of recursion."
                   }
                ],
-               "model": "openai/gpt-5"
+               "model": "openai/gpt-4o"
             }'
